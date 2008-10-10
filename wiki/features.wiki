@@ -1,8 +1,5 @@
-#summary One-sentence summary of this page.
-
 = FEATURES =
 
- * Enumerate running Applications 
  * List Application instances
  * List Shared Object in scope
  * Inspect Shared Object properties
