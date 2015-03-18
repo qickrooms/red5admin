@@ -1,0 +1,13 @@
+Red5 Admin Features
+
+# Introduction #
+
+You can see screenshot about flex client
+![http://www.okpress.it/red5Admin/objectInspector.jpg](http://www.okpress.it/red5Admin/objectInspector.jpg)
+
+![http://www.okpress.it/red5Admin/streamInpsector.jpg](http://www.okpress.it/red5Admin/streamInpsector.jpg)
+
+
+# Details #
+
+todo
